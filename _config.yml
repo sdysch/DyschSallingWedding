@@ -7,14 +7,14 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: "Sam and Maria's wedding 19/5/24"
+description: ""
 
-short_url: 'jekyllt.github.io/jasper/'
-google_analytics: UA-69281367-1
-disqus: username
+short_url: 
+google_analytics: 
+disqus: 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /
 
 # Permalinks
 permalink: /:title
