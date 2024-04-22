@@ -31,7 +31,7 @@ Here is a non-exhaustive list of suggested things to do in Copenhagen and Helsin
 	* Boardgame cafe/bar
 * [Mikkeller brewery](https://www.visitcopenhagen.com/copenhagen/planning/mikkeller-bar-gdk436646)
 * [https://reffen.dk/](Reffen)
-	* Far to get to, but worth it for the food market and vibe
+	* Far to get to, but worth it for the food market and vibes
 
 ### Helsingør<a name="elsinore"></a>
 * [Kronborg castle](https://www.visitdenmark.com/denmark/things-do/history/kronborg-castle)
