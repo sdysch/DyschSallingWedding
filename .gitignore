@@ -31,3 +31,4 @@ Gemfile.lock
 node_modules
 
 !assets/images/*
+!assets/images/travel/*
