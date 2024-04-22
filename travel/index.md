@@ -25,7 +25,7 @@ cover: 'assets/images/boat.jpg'
 ### From Helsingør station to Marienlyst or Danhostel<a name="accommodation"></a>
 * Do not leave the station, but walk to the far end where trams are
 	* If you can't find them, then ask a stranger where you get on ‘the pig’ (long story) and they will direct you
-* Get on the tram towards Højstrup St
+* Get on the tram towards Gilleleje St.
 * If you are staying at **Marienlyst**
 	* Travel one stop and get off at Marienlyst Station
 	* The walk to Marienlyst is about 5 mins.
