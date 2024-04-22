@@ -50,7 +50,7 @@ _Marienlyst St. to Marienlyst_
 <figure><img src="{{ site.baseurl }}/assets/images/travel/marienlyst.png" height="100%" width="100%"></figure>
 _Højstrup St. to Danhostel_
 <figure> <img src="{{ site.baseurl }}/assets/images/travel/danhostel.png" height="100%" width="100%"> </figure> 
-_Danhostel to [Marienlyst_](Marienlyst_)
+_Danhostel to Marienlyst_
 <figure> <img src="{{ site.baseurl }}/assets/images/travel/hotel_walk.png" height="100%" width="100%"> </figure> 
 
 #### Maps<a name="maps"></a>
