@@ -30,7 +30,7 @@ Here is a non-exhaustive list of suggested things to do in Copenhagen and Helsin
 * [Bastard cafe](https://bastardcafe.dk/)
 	* Boardgame cafe/bar
 * [Mikkeller brewery](https://www.visitcopenhagen.com/copenhagen/planning/mikkeller-bar-gdk436646)
-* [https://reffen.dk/](Reffen)
+* [Reffen](https://reffen.dk/)
 	* Far to get to, but worth it for the food market and vibes
 
 ### Helsingør<a name="elsinore"></a>
@@ -43,3 +43,4 @@ Here is a non-exhaustive list of suggested things to do in Copenhagen and Helsin
 * Browse shops and old streets
 	* There are good second hand shops in the town centre
 	* Be sure to go down the old streets too!
+* Take the ferry to Sweden (Helsingborg) with [ForSea](https://www.forseaferries.com/)
